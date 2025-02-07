@@ -1,0 +1,9 @@
+class DelCode1
+{
+	public static void main(String [] args)
+	{
+		int students = 10; 
+		int count = 15;
+		System.out.println((count%students)+1);
+	}
+}
